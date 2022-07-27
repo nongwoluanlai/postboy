@@ -13,3 +13,6 @@ https://www.yuque.com/docs/share/c51e0279-192b-492b-8b6b-e97385b79c38<br>
 <h2>三.其他</h2><br>
 代码结构：前后端使用的是pythonweb flask，发送post请求用的是java(因为以前写过就懒得改了)，定时任务使用的是我租用的VPS中的crontab。（不会泄露用户data，请安心使用）<br>
 消息通知工具使用到了这位大佬的虾推啥：http://www.xtuis.cn/<br>
+欢迎关注我的公众号，方便获取更新消息、留言答疑、一起玩耍<br>
+![image](https://user-images.githubusercontent.com/64674765/181194615-2ae83f5e-4472-4507-9e37-c0ef84ae9ed5.png)
+
